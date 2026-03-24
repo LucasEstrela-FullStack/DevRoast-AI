@@ -1,6 +1,6 @@
 # UI Components — Padrões de Criação
 
-Guia de referência para manter consistência ao criar novos componentes na pasta `src/components/ui`.
+Guia de referência para manter consistência ao criar novos componentes na pasta `app/components/ui`.
 
 ## Regras gerais
 
@@ -253,7 +253,7 @@ export {
 
 ## Checklist para novos componentes
 
-- [ ] Arquivo em kebab-case dentro de `src/components/ui/`
+- [ ] Arquivo em kebab-case dentro de `app/components/ui/`
 - [ ] Named exports (componente, função tv, tipos)
 - [ ] Props nativas estendidas via `ComponentProps<"elemento">`
 - [ ] Variantes definidas com `tailwind-variants`
