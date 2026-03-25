@@ -1,3 +1,10 @@
+<img width="1354" height="650" alt="image" src="https://github.com/user-attachments/assets/9ee1bb10-bbcb-49ed-9e1c-4d01e57f0c99" />
+
+<img width="1349" height="644" alt="image" src="https://github.com/user-attachments/assets/a0db7574-b168-47dc-9269-cdf11aede80f" />
+
+<img width="1354" height="647" alt="image" src="https://github.com/user-attachments/assets/760801a9-7b2c-4920-a2df-19cfd4308151" />
+
+
 # 🔥 DevRoast AI
 
 > **"Seu código é ruim e a gente te explica o porquê (com muito sarcasmo)."**
