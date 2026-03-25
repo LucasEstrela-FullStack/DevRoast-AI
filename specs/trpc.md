@@ -459,7 +459,7 @@ export function RoastResult({ id }: { id: string }) {
 
 ## TODOs de implementacao
 
-- [x] Instalar dependencias: `pnpm add @trpc/server @trpc/client @trpc/tanstack-react-query @tanstack/react-query zod server-only client-only`
+- [x] Instalar dependencias: `npm add @trpc/server @trpc/client @trpc/tanstack-react-query @tanstack/react-query zod server-only client-only`
 - [x] Criar `app/trpc/init.ts` — initTRPC, context com `db`, baseProcedure
 - [x] Criar `app/trpc/routers/roast.ts` — procedure getStats (getById e create pendentes)
 - [ ] Criar `app/trpc/routers/leaderboard.ts` — procedure list com paginacao

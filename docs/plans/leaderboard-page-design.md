@@ -56,7 +56,7 @@ getLeaderboard: baseProcedure
 
 **Step 2: Verify build compiles**
 
-Run: `pnpm build` (or `pnpm dev` and check for errors)
+Run: `npm run build` (or `npm run dev` and check for errors)
 Expected: No type errors. The homepage `caller.roast.getLeaderboard()` call still works because `limit` defaults to 3.
 
 **Step 3: Commit**
@@ -198,7 +198,7 @@ Key differences from the current hardcoded page:
 
 **Step 2: Verify the page renders**
 
-Run: `pnpm dev` and navigate to `http://localhost:3000/leaderboard`
+Run: `npm run dev` and navigate to `http://localhost:3000/leaderboard`
 Expected: 20 entries from the DB with syntax highlighting and collapsible code blocks. Hero shows real stats.
 
 **Step 3: Commit**
