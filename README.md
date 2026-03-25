@@ -20,7 +20,7 @@ Desenvolvido com uma stack moderna e utilizando **workflows agênticos**, o proj
 - Drizzle ORM
 
 ### 🤖 IA
-- OpenAI (via AI SDK da Vercel)
+- Gemini (via AI SDK da Vercel)
 - Sub-agents para automação de tarefas
 - Workflows agênticos
 
